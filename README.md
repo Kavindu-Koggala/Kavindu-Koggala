@@ -15,7 +15,7 @@
 <p align="left">
   <a href="https://twitter.com/kavindukoggala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kavindukoggala" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21905620/kavindu-koggala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kavindu-koggala" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kavindu koggala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kavindu koggala" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kavindu-koggala-3195b7215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kavindu koggala" height="30" width="40" /></a>
 <a href="https://fb.com/kavindu d koggala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kavindu d koggala" height="30" width="40" /></a>
 <a href="https://instagram.com/_.kogga._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.kogga._" height="30" width="40" /></a>
 </p>
