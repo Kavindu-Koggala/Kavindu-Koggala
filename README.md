@@ -1,8 +1,6 @@
 ![MasterHead](https://github.blog/wp-content/uploads/2020/12/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?fit=1200%2C630)
 <h1 align="center">Hi 👋, I'm Kavindu Koggala</h1>
 <h3 align="center">Undergraduate @SLIIT</h3>
-<img align=“center” alt=“Coding” width=“400” src=“https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5eeea355389655.59822ff824b72.gif”>
-
 <p align="center" width="100%">
   <a href="https://github.com/DenverCoder1/readme-typing-svg" width="100%"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20World!;I'm%20Kavindu%20Koggala;Full%20Stack%20Developer;SLIIT%20Undergraduate%20👨‍🎓&font=Fira%20Code&center=true&width=440&height=45&color=ff4130&vCenter=true&size=28" width="100%"></a>
 </p>
