@@ -16,9 +16,9 @@
 
 <br/>
 
-- 🔭 I’m currently working on **Financial Management System**
+- 🔭 I’m currently working on **Employee Management System**
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Spring Boots**
 
 - 📫 How to reach me **koggaladbkd@gmail.com**
 
