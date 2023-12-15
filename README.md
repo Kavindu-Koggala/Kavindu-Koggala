@@ -45,5 +45,5 @@
 
 ## Snake eating my contributions graph
 
-![snake gif](https://github.com/MadhushaPrasad/MadhushaPrasad/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Kavindu-Koggala/Kavindu-Koggala/blob/output/github-contribution-grid-snake.gif)
 
