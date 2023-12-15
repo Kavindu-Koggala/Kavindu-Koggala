@@ -4,6 +4,17 @@
 <p align="center" width="100%">
   <a href="https://github.com/DenverCoder1/readme-typing-svg" width="100%"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20World!;I'm%20Kavindu%20Koggala;Full%20Stack%20Developer;SLIIT%20Undergraduate%20👨‍🎓&font=Fira%20Code&center=true&width=440&height=45&color=ff4130&vCenter=true&size=28" width="100%"></a>
 </p>
+<p align="center" width="100%">
+
+<a href="https://github.com/Kavindu-Koggala?tab=followers" target="_blank">
+  <img align="center" alt="Kavindu-Koggala | Profile Views" width="120px" src="https://komarev.com/ghpvc/?username=Kavindu-Koggala&style=plastic" />
+</a> &nbsp;&nbsp;
+<a href="https://github.com/Kavindu-Koggala?tab=followers" target="_blank">
+  <img align="center" alt="Kavindu-Koggala | followers" width="93px" src="https://img.shields.io/github/followers/Kavindu-Koggala?label=Followers&style=social" /> </a> &nbsp;&nbsp;
+
+</p>
+
+<br/>
 
 - 🔭 I’m currently working on **Financial Management System**
 
